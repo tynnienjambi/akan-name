@@ -49,19 +49,19 @@ submission = function() {
     
     
    if (year < 0) {
-      output.style.background ="gray"
+      output.style.background ="red"
       output.style.color= "white"
       output.innerHTML = "Hey! " + name + " please enter a valid year! "
   }
     
   else if ((month < 1) || (month > 31)) {
-      output.style.background ="gray"
+      output.style.background ="red"
       output.style.color= "white"
       output.innerHTML = "Hey! " + name + " please enter a valid month! "
   }
     
    else if (day < 0 || day > 31) {
-      output.style.background ="gray"
+      output.style.background ="red"
       output.style.color= "white"
       output.innerHTML = "Hey! " + name + " please enter a valid day! "
   }
