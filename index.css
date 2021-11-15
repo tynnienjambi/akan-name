@@ -1,5 +1,8 @@
 body{
-    background-color: lightblue;
+    background-image: url("lion.jpg");
+    height: 100vh;
+    background-size:cover;
+    background-position: center;
 }
 .kkk {
     color:white;
