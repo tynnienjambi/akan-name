@@ -6,7 +6,7 @@ github repository :https://github.com/tynnienjambi/akan-name.git
 gh-page :https://github.com/tynnienjambi/akan-name.git
 The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born. These "day names" have further meanings concerning the soul and character of the person. Middle names have considerably more variety and can refer to their birth order, twin status, or an ancestor's middle name.
 
-## Setup/Installation Requirements
+## Installation Setup
 * Click on the github repository link in the description above to get to my repository
 * Open the repository
 * Fork the repository
@@ -21,7 +21,7 @@ The Akan people of Ghana frequently name their children after the day of the wee
 * Javascript
 
 
-## BDD
+## TTT
 ##### Input
 Year- The year of birth
 
