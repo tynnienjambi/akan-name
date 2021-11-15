@@ -2,7 +2,7 @@
 #### Akan-Names website, October 15 2021,Vrsn 1.0
 #### By **Tinisha Kamau**
 ## Description
-github repository :
+github repository :https://github.com/tynnienjambi/akan-name.git
 gh-page :https://cynthiaoduol.github.io/Akan-names-website
 In Ghana, people name their children after the day of the week they were born. The names are known as the Akan Names. This is a web application that takes a user's birthday, calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
 
