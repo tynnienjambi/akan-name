@@ -21,7 +21,7 @@ The Akan people of Ghana frequently name their children after the day of the wee
 * Javascript
 
 
-## TTT
+## BDD
 ##### Input
 Year- The year of birth
 
