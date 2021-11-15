@@ -4,7 +4,7 @@
 ## Description
 github repository :https://github.com/tynnienjambi/akan-name.git
 gh-page :https://github.com/tynnienjambi/akan-name.git
-In Ghana, people name their children after the day of the week they were born. The names are known as the Akan Names. This is a web application that takes a user's birthday, calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
+The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born. These "day names" have further meanings concerning the soul and character of the person. Middle names have considerably more variety and can refer to their birth order, twin status, or an ancestor's middle name.
 
 ## Setup/Installation Requirements
 * Click on the github repository link in the description above to get to my repository
@@ -12,10 +12,7 @@ In Ghana, people name their children after the day of the week they were born. T
 * Fork the repository
 * Then click on the clone/download button to get a link to clone or download 
 * pull the repository link to your local host
-* To open the live site click on the gh-page link in description.
-
-## Known Bugs 
-The formula for calculating the day of the week had an error but i plan to work on it after perfect research on what the correct formula should be.
+* To open the live site click on the gh-page link in description
 
 ## Technologies Used
  <!-- This site is developed by HTML, CSS and JAVASCRIPT. -->
@@ -35,15 +32,12 @@ Date- The day of the month
 ##### Output
 Day of birth- The day of the week that the user was born eg Tuesday
 
-Akan name- The corresponding Akan name for the user eg.Kofi
-
-## Sample
-![image](Pictures/akanname.jpg)
+Akan name- The corresponding Akan Name for the user eg.Kofi
 
 ## Support and contact details
- Incase you come across errors, have questions, ideas ,concerns, or want to contribute to the page, feel free to reach me at :cynthiaobu940@gmail.com
+ For any querries kindly email me at njambik350@gmail.com
  
  ### License
 *MIT licence*
-Copyright (c) 2019 **Cynthia Oduol**
+Copyright (c) 2021 **Tinisha Kamau**
 
